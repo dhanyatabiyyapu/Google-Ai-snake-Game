@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake & Player",
+  "description": "A neon aesthetic Snake game with a built-in synthwave music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
